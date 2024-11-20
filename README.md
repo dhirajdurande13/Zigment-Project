@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/dhirajdurande13/Zigment-Project
 cd your-repository
 Install dependencies: Ensure you have npm n installed. Run the following command:
 
@@ -104,10 +104,14 @@ export const inputFormElement = [
 
 
 ###Features
-Dynamic form generation based on JSON schema.
-Support for different input types, including text, email, select dropdowns, and textarea.
-Client-side validation for required fields.
-Reset functionality to clear all fields.
+
+-->Dynamic form generation based on JSON schema.
+
+-->Support for different input types, including text, email, select dropdowns, and textarea.
+
+-->Client-side validation for required fields.
+
+-->Reset functionality to clear all fields.
 
 
 
