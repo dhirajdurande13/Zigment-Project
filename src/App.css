@@ -1,6 +1,12 @@
 .App {
   text-align: center;
+  position: relative;
+  font-family: sans-serif;
+  width: 80vw;
+  min-height: 100vh;
+ 
 }
+
 
 .App-logo {
   height: 40vmin;
